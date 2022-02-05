@@ -1,5 +1,5 @@
 # useScrollLevel - a custom React hook
-A lightweight (1 kB) package to easily track scroll level in React.js
+A lightweight (1 kB) package to easily track scroll percentage in React.js
 
 ## Install
 `npm install react-scroll-level`
